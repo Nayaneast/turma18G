@@ -1,7 +1,9 @@
-package CLASSES;
+package APLICACAO;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
+
+import CLASSES.ContaEmpresa;
 
 public class TesteEmpresa {
 	  public static void main(String [] args) {

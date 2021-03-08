@@ -7,7 +7,7 @@ public class Exercicio1 {
 		
 	Scanner ler = new Scanner(System.in);
 	
-		
+	
 	
 		
 	}
